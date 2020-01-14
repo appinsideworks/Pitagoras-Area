@@ -14,6 +14,8 @@ Método de Acceso Area.FIGURA
 
 Para implementar agregar
   
+maven { url 'https://jitpack.io' }
+
 implementation 'com.github.appinsideworks:Pitagoras-Area:0.1.0'
 
   
